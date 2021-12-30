@@ -40,8 +40,13 @@
 
   
 
- 
+<h3>github-stats</h3>  
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027)
+  
+  
+<h3>Solved.ac Tier</h3> 
+  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbstnr2146)](https://solved.ac/dbstnr2146)  
   
 </div>
