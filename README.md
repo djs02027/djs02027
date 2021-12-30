@@ -39,10 +39,11 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
   
-<hr>
+
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbstnr2146)](https://solved.ac/dbstnr2146)  
+  
 </div>
 
 <!--
