@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=,1,3,6,20)
+![header](https://capsule-render.vercel.app/api?color=gradient&height=400&customColorList=,1,3,6,20)
 ### Hi there 👋
 
 <!--
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![footer](https://capsule-render.vercel.app/api?color=gradient&customColorList=,1,3,6,20&section=footer)
+![footer](https://capsule-render.vercel.app/api?color=gradient&height=200&customColorList=,1,3,6,20&section=footer)
