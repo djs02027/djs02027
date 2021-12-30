@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&customColorList=0,2,2,2,3&text=SookYun&fontSize=50&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&customColorList=,1,3,6,20&text=SookYun&fontSize=50&fontAlignY=30)
 
 ### Hi there 👋
 
