@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&customColorList=0,1,3,5,20&text=SookYun&fontSize=50&&animation=fadeIn&desc=Hi there👋&fontAlignY=30&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&customColorList=0,1,3,5,20&text=SookYun&fontSize=50&&animation=fadeIn&desc=Hi there!&fontAlignY=30&descSize=30)
 ### Hi there 
 
 <!--
