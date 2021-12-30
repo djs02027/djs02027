@@ -1,8 +1,38 @@
 <div align="center">
   
-  
+ 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&customColorList=,1,3,6,20&text=SookYoon&fontSize=60&fontAlignY=35)
+ 
+  
+<!-- <div align="center">
+  
+![brightgreen](https://img.shields.io/badge/-brightgreen-brightgreen)
+![green](https://img.shields.io/badge/-green-green)
+![yellowgreen](https://img.shields.io/badge/-yellowgreen-yellowgreen)
+![yellow](https://img.shields.io/badge/-yellow-yellow)![orange](https://img.shields.io/badge/-orange-orange)
+  
+<tr>
+  
+![red](https://img.shields.io/badge/-red-red)![blue](https://img.shields.io/badge/-blue-blue)
+![lightgrey](https://img.shields.io/badge/-lightgrey-lightgrey)
+![success](https://img.shields.io/badge/-success-success)
+![important](https://img.shields.io/badge/-important-important)
+  
+<tr>
+  
+![critical](https://img.shields.io/badge/-critical-critical)![informational](https://img.shields.io/badge/-informational-informational)
+  
+![inactive](https://img.shields.io/badge/-inactive-inactive)
+![blueviolet](https://img.shields.io/badge/-blueviolet-blueviolet)![ff69b4](https://img.shields.io/badge/-ff69b4-ff69b4)![9cf](https://img.shields.io/badge/-9cf-9cf)
+
+</div> -->
+
+
+
+
+  
 <div align="center"><h3>How many visitors?</h3></div>
+  
 <div align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdjs02027%2F&count_bg=%23168BE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
 
 
