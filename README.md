@@ -4,6 +4,8 @@
 <div align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdjs02027%2F&count_bg=%23168BE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
 
 <div align="center">
+  
+
 <h3>Languages</h3>
 
 
@@ -36,6 +38,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+  
+<hr>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbstnr2146)](https://solved.ac/dbstnr2146)  
 </div>
 
 <!--
