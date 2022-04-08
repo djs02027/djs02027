@@ -31,11 +31,12 @@
 
   
 
-  
+<!--   
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdjs02027%2F&count_bg=%23168BE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-
+ -->
   
+<h3>🛠skills🛠</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
@@ -52,18 +53,15 @@
 ![Quasar](https://img.shields.io/badge/quasar-4695EB.svg?style=flat&logo=quasar&logoColor=white)
 
 
-  
-
-<h3>github-stats</h3>  
+<h3>⛳github-state⛳</h3>  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027)
   
   
-<h3>Solved.ac Tier</h3> 
+<h3>🏆solved.ac Tier🏆</h3> 
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbstnr2146)](https://solved.ac/dbstnr2146)  
   
-
 
 <!--
 **djs02027/djs02027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
