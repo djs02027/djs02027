@@ -48,7 +48,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=Vue.js&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB.svg?style=flat&logo=quasar&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=flat&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Quasar](https://img.shields.io/badge/quasar-4695EB.svg?style=flat&logo=quasar&logoColor=white)
 
