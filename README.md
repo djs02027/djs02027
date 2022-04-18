@@ -60,12 +60,12 @@
 ![Quasar](https://img.shields.io/badge/quasar-4695EB.svg?style=flat&logo=quasar&logoColor=white)
 
 
-<h3>⛳github-state⛳</h3>  
+<h3>⛳Github-state⛳</h3>  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027)
   
   
-<h3>🏆solved.ac Tier🏆</h3> 
+<h3>🏆Solved.ac Tier🏆</h3> 
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbstnr2146)](https://solved.ac/dbstnr2146)  
   
