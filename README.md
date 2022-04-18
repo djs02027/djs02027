@@ -43,7 +43,7 @@
 <h3>📚Educations📚</h3>
  삼성 청년 SW 아카데미 (SSAFY) - 6기 (2021.07 ~ 현재)
   
-<h3>🛠skills🛠</h3>
+<h3>🛠Skills🛠</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
