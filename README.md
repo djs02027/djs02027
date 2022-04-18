@@ -60,7 +60,7 @@
 ![Quasar](https://img.shields.io/badge/quasar-4695EB.svg?style=flat&logo=quasar&logoColor=white)
 
 
-<h3>⛳Github-state⛳</h3>  
+<h3>⛳Github-stats⛳</h3>  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027)
   
