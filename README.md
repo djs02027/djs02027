@@ -63,7 +63,8 @@
 <h3>⛳Github-stats⛳</h3>  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027)
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djs02027&layout=compact)](https://github.com/djs02027/github-readme-stats)
   
 <h3>🏆Solved.ac Tier🏆</h3> 
   
