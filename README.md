@@ -45,6 +45,8 @@
   
 <h3>🛠Skills🛠</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djs02027&layout=compact)](https://github.com/djs02027/github-readme-stats)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -62,9 +64,9 @@
 
 <h3>⛳Github-stats⛳</h3>  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djs02027&layout=compact)](https://github.com/djs02027/github-readme-stats)
+
   
 <h3>🏆Solved.ac Tier🏆</h3> 
   
