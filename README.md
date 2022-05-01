@@ -45,7 +45,7 @@
   
 <h3>🛠Skills🛠</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djs02027&layout=compact)](https://github.com/djs02027/)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djs02027&layout=compact)](https://github.com/djs02027/) -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
