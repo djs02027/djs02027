@@ -64,7 +64,7 @@
 
 <h3>⛳Github-stats⛳</h3>  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027&layout=compact)
 
 
   
