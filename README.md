@@ -64,7 +64,11 @@
 
 <h3>⛳Github-stats⛳</h3>  
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=djs02027&layout=compact)
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=djs02027&count_private=true&show_icons=true" alt="Github Stats" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djs02027&layout=compact" alt="Top Languages" height="150px" />
+  </div>
 
 
   
