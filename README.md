@@ -39,10 +39,10 @@
  <h2>Hi! I'm Sook😊</h2>
 </div>  
  
+<li> 신협중앙회 (2022.01.02 ~ ) </li>
+<li> 삼성 청년 SW 아카데미 (SSAFY) - 6기 (2021.07.07 ~ 2022.06.30) </li>
  
-<h3>📚Educations📚</h3>
- 삼성 청년 SW 아카데미 (SSAFY) - 6기 (2021.07.07 ~ 2022.06.30)
-  
+ 
 <h3>🛠Skills🛠</h3>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djs02027&layout=compact)](https://github.com/djs02027/) -->
@@ -83,7 +83,7 @@
 
 
   
-<h3>🏆Solved.ac Tier🏆</h3> 
+<h3>🏆achievements🏆</h3> 
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbstnr2146)](https://solved.ac/dbstnr2146)  
   
